@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url(../assets/images/bgimg.jpg);
+  background-size: cover;
+  font-size: 20px;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.contactdet {
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  padding: 300px;
+}
+.container {
+  padding: 15px;
+  border: 2px solid black;
+}

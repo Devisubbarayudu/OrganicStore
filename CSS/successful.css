@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: rgba(230, 241, 160, 0.473);
+  padding: 300px;
+}
+.msg {
+  display: flex;
+  justify-content: center;
+  color: rgb(41, 88, 74);
+  font-size: 30px;
+}
+p,
+a {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  border: 2px solid black;
+  padding: 50px;
+  top: 300px;
+  left: 600px;
+}
